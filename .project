@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Java_2D_Platformer</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>res/block_sheet.png</name>
+			<type>1</type>
+			<location>C:/Users/Landen Lefrancois/workspace/MKultra/res/block_sheet.png</location>
+		</link>
+		<link>
+			<name>res/enemy_sheet.png</name>
+			<type>1</type>
+			<location>C:/Users/Landen Lefrancois/workspace/MKultra/res/enemy_sheet.png</location>
+		</link>
+		<link>
+			<name>res/level1.png</name>
+			<type>1</type>
+			<location>C:/Users/Landen Lefrancois/workspace/MKultra/res/level1.png</location>
+		</link>
+		<link>
+			<name>res/level2.png</name>
+			<type>1</type>
+			<location>C:/Users/Landen Lefrancois/workspace/MKultra/res/level2.png</location>
+		</link>
+		<link>
+			<name>res/level3.png</name>
+			<type>1</type>
+			<location>C:/Users/Landen Lefrancois/workspace/MKultra/res/level3.png</location>
+		</link>
+		<link>
+			<name>res/level4.png</name>
+			<type>1</type>
+			<location>C:/Users/Landen Lefrancois/workspace/MKultra/res/level4.png</location>
+		</link>
+		<link>
+			<name>res/player_sheet.png</name>
+			<type>1</type>
+			<location>C:/Users/Landen Lefrancois/workspace/MKultra/res/player_sheet.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
